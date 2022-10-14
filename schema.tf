@@ -1,4 +1,4 @@
-resource "null_resource" "example1" {
+resource "null_resource" "schema" {
   provisioner "local-exec" {
     command = <<EOF
 

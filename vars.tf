@@ -7,7 +7,7 @@ variable "DOCDB_INSTANCE_CLASS" {}
 variable "DOCDB_PG_FAMILY" {}
 variable "DOCDB_PORT" {}
 variable "VPC_ID" {}
-variable "PRIVATE_SUBNET_CIDR" {}
+variable "ALLOW_SG_CIDR" {}
 variable "PRIVATE_SUBNET_ID" {}
 
 
